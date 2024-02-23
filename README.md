@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Abdulmecid Nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmecid nasir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/AbdulmecidNasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulmecid nasir" height="30" width="40" /></a>
 <a href="https://instagram.com/a.mecid_nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.mecid_nasir" height="30" width="40" /></a>
 </p>
 
